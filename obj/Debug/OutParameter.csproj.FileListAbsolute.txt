@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\LocalFunction csharp\OutParameter\bin\Debug\OutParameter.exe.config
+C:\Users\lenovo\source\repos\LocalFunction csharp\OutParameter\bin\Debug\OutParameter.exe
+C:\Users\lenovo\source\repos\LocalFunction csharp\OutParameter\bin\Debug\OutParameter.pdb
+C:\Users\lenovo\source\repos\LocalFunction csharp\OutParameter\obj\Debug\OutParameter.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\LocalFunction csharp\OutParameter\obj\Debug\OutParameter.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\LocalFunction csharp\OutParameter\obj\Debug\OutParameter.exe
+C:\Users\lenovo\source\repos\LocalFunction csharp\OutParameter\obj\Debug\OutParameter.pdb
